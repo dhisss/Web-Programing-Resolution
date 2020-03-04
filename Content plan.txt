@@ -1,9 +1,9 @@
 Plan for Content :
 - Exchange 
-- Student Staff
 - Joint Degree
 - Life lesson
 - Tech Lesson 
+  ^ review Techonlogy
   ^ Journey 
   ^ Tutorial 
 - DLL

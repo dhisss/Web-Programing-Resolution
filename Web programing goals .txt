@@ -5,3 +5,4 @@ goasl
 
 
 4. Make project to help people or solve problem 
+5. sharing 

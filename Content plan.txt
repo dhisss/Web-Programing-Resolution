@@ -2,4 +2,5 @@ Plan for Content :
 - Exchange 
 - Student Staff
 - Joint Degree
+- Life lesson
 - DLL

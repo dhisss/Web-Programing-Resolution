@@ -3,5 +3,7 @@ Plan for Content :
 - Joint Degree
 - Life lesson
 - Tech Lesson 
-  ^ review Techonlogy 
+  ^ review Techonlogy
+  ^ Journey 
+  ^ Tutorial 
 - DLL

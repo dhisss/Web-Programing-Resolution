@@ -3,4 +3,7 @@ Plan for Content :
 - Student Staff
 - Joint Degree
 - Life lesson
+- Tech Lesson 
+  ^ Journey 
+  ^ Tutorial 
 - DLL
